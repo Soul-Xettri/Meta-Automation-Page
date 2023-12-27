@@ -40,8 +40,8 @@ chatlogic-clientside replicates the look and feel of Meta's chat interface. Whil
 
 For a visual overview of chatlogic-clientside, refer to the screenshots provided below:
 
-<img src="images/1.png" alt="Category Section" width="100%"/>
-<img src="images/2.png" alt="Category Section" width="100%"/>
+<img src="src/assets/1.png" alt="Category Section" width="100%"/>
+<img src="src/assets/2.png" alt="Category Section" width="100%"/>
 
 
 ## Contributing
