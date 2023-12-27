@@ -6,7 +6,7 @@
 
 ## Introduction
 
-chatlogic-clientside is a straightforward implementation of a chat automation page inspired by Meta's chat features. This project provides a hands-on experience for those interested in building and understanding the fundamentals of chat automation.
+chatlogic-clientside is a work-in-progress project developed using React with TypeScript and Mantine. It is a straightforward implementation of a chat automation page inspired by Meta's chat features. This project provides a hands-on experience for those interested in building and understanding the fundamentals of chat automation.
 
 ## Features
 
@@ -21,14 +21,22 @@ To explore chatlogic-clientside, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/soul-xettri/chatlogic-clientside.git
-    cd Meta-Automation-Page
+    git clone https://github.com/your-username/chatlogic-clientside.git
+    cd chatlogic-clientside
     ```
 
-2. **Run the Application:**
-    - Open the `index.html` file in a web browser.
+2. **Install Dependencies:**
+    ```bash
+    yarn install
+    ```
 
-3. **Explore the Chat Interface:**
+3. **Run the Application:**
+    ```bash
+    yarn dev
+    ```
+
+4. **Explore the Chat Interface:**
+    - Open the provided URL in your web browser.
     - Experience the simple chat interface and basic automation features.
     - Send and receive messages to understand the chat functionalities.
 
@@ -42,11 +50,13 @@ For a visual overview of chatlogic-clientside, refer to the screenshots provided
 
 <img src="src/assets/1.png" alt="Category Section" width="100%"/>
 <img src="src/assets/2.png" alt="Category Section" width="100%"/>
-
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvement, find bugs, or want to contribute new features, please submit a pull request or open an issue.
+
+## Work in Progress
+
+Please note that this project is still a work in progress. Feel free to explore the existing features and contribute to its development.
 
 ## License
 
